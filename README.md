@@ -28,10 +28,10 @@ AlphabetSoup is a philatropic organization focused on helping non profit organiz
   ![picture](images/1.png)
   
   - the second try we added additional layers and also added extra neurons for each layer 
-  ![picture](images/1.png)
+  ![picture](images/2.png)
   
   - in the next try, we increased the amount of epochs we allowed the model to train, hoping that would give it more time to learn and adabte to the data
-  ![picture](images/1.png)
+  ![picture](images/4.png)
   
   - we changed activation functions and tried a few different ones, still the model couldnt go over 73% accuracy
   ![picture](images/3.png)
